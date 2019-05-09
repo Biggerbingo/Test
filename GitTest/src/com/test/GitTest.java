@@ -6,5 +6,9 @@ public class GitTest {
 		// TODO Auto-generated method stub
 		System.out.println("hello word");
 	}
-
+	
+	//1
+	public void bbb(){
+		
+	}
 }
