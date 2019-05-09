@@ -13,7 +13,7 @@ public class GitTest {
 	}
 	
 	//1
-	public void bcbb(){
+	public void bccbb(){
 			
 	}
 }
