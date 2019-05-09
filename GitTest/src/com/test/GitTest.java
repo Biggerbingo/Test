@@ -11,4 +11,9 @@ public class GitTest {
 	public void bbb(){
 		
 	}
+	
+	//1
+	public void bcbb(){
+			
+	}
 }
