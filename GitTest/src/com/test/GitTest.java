@@ -23,8 +23,4 @@ public class GitTest {
 			
 	}
 	
-	//111
-	public void cc(){
-		
-	}
 }
